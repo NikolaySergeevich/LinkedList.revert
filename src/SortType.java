@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum SortType {
+public enum SortType {
+    Ascending,// по возрастанию (стандарт)
+    Descending// по убыванию
 }
